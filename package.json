@@ -1,0 +1,23 @@
+{
+  "name": "m-sms",
+  "version": "1.0.0",
+  "description": "send and receive SMS from the CLI (teltonika RUT950)",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-onz/m-sms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-onz/m-sms/issues"
+  },
+  "homepage": "https://github.com/m-onz/m-sms#readme",
+  "dependencies": {
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
